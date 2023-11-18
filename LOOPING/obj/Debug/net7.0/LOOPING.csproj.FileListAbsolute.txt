@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\bin\Debug\net7.0\LOOPING.exe
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\bin\Debug\net7.0\LOOPING.deps.json
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\bin\Debug\net7.0\LOOPING.runtimeconfig.json
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\bin\Debug\net7.0\LOOPING.dll
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\bin\Debug\net7.0\LOOPING.pdb
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\LOOPING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\LOOPING.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\LOOPING.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\LOOPING.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\LOOPING.dll
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\refint\LOOPING.dll
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\LOOPING.pdb
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\LOOPING.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\LOOPING\LOOPING\obj\Debug\net7.0\ref\LOOPING.dll
